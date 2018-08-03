@@ -63,7 +63,7 @@ gem 'roo-xls', git: 'https://github.com/bigos/roo-xls', ref: 'b7f0b70'
 
 # process ods files and new excel files
 # my forked gem has comments with possible examples of parsing the spreadsheets
-gem 'roo', git: 'https://github.com/bigos/roo', ref: '55ec332'
+gem 'roo', git: 'https://github.com/bigos/roo', ref: '55ec3325ec3131fa34'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

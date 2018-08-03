@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/bigos/roo
   revision: 55ec3325ec3131fa34c3e0f5e647160cb17ef114
-  ref: 55ec332
+  ref: 55ec3325ec3131fa34
   specs:
     roo (2.7.1)
       nokogiri (~> 1)
@@ -263,4 +263,4 @@ RUBY VERSION
    ruby 2.4.4p296
 
 BUNDLED WITH
-   1.16.2
+   1.16.3
