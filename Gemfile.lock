@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/bigos/roo
-  revision: 55ec3325ec3131fa34c3e0f5e647160cb17ef114
-  ref: 55ec3325ec3131fa34
+  revision: 84de311a0700175eaef49835cac62bef07c78e8f
+  ref: 84de311a0700175eaef49835cac62bef07c78e8f
   specs:
     roo (2.7.1)
       nokogiri (~> 1)
